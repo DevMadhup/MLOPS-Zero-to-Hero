@@ -1,3 +1,3 @@
 ## Introduction to MLOPS
 
-- What is MLOPS ?
+- What is MLOPS 
